@@ -26,22 +26,22 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 > *“Turning data into intelligence, and intelligence into innovation.”*
 
 I'm a **Data Scientist & AI/ML Engineer** with a passion for building production‑ready AI systems that solve real‑world problems.  
 My work spans the entire AI pipeline — from data wrangling and exploratory analysis to deep learning, computer vision, backend APIs, and cloud deployment.
 
-- 🔭 **Currently working on:** Hazardous object detection & weld inspection using YOLOv9.
-- 🌱 **Currently learning:** MLOps, Docker, Kubernetes, and advanced GANs.
-- 👯 **Looking to collaborate on:** Open‑source computer vision and healthcare AI projects.
-- 💬 **Ask me about:** Deep learning, YOLO, Flask, OpenCV, and data storytelling.
-- ⚡ **Fun fact:** I love solving puzzles and playing chess when I'm not coding.
+-  **Currently working on:** Hazardous object detection & weld inspection using YOLOv9.
+-  **Currently learning:** MLOps, Docker, Kubernetes, and advanced GANs.
+-  **Looking to collaborate on:** Open‑source computer vision and healthcare AI projects.
+-  **Ask me about:** Deep learning, YOLO, Flask, OpenCV, and data storytelling.
+-  **Fun fact:** I love solving puzzles and playing chess when I'm not coding.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | **Category** | **Tools & Technologies** |
 |:---|:---|
@@ -55,38 +55,38 @@ My work spans the entire AI pipeline — from data wrangling and exploratory ana
 
 ---
 
-## 🚀 Featured AI & Computer Vision Projects
+##  Featured AI & Computer Vision Projects
 
-### 🛡️ Hazardous Object Detection System
+###  Hazardous Object Detection System
 > **Real‑time AI for detecting dangerous objects in images & webcam streams.**  
 > **Stack:** YOLOv9, Python, Flask, OpenCV, HTML5, CSS3, Render  
 > *Highlights:* Custom‑tuned YOLO model, live webcam integration, instant bounding‑box visualisation.
 
-### 🔧 WeldVision AI — Intelligent Weld Inspection
+###  WeldVision AI — Intelligent Weld Inspection
 > **AI‑powered weld inspection tool with live detection and confidence scoring.**  
 > **Stack:** YOLO, OpenCV, Flask, Python, HTML5, CSS3  
 > *Highlights:* Real‑time detection, interactive dashboard, API‑first design.
 
-### 🧠 MNIST AutoEncoder Web App
+###  MNIST AutoEncoder Web App
 > **Deep learning demo for image reconstruction, denoising, and latent space exploration.**  
 > **Stack:** Convolutional Autoencoders, Keras, TensorFlow, Flask, HTML5, CSS3  
 > *Highlights:* Interactive visualisation of encodings, slider‑controlled reconstruction.
 
 ---
 
-## 📚 Learning Journeys & Repositories
+##  Learning Journeys & Repositories
 
 I believe in continuous learning. Here are my structured learning paths – each repository is a deep dive into a specific domain.
 
 | Repository | Focus |
 |:---|:---|
-| [🐍 Python‑Journey](https://github.com/Abdulla-B-Official/Python-Journey) | Fundamentals, OOP, data structures, visualisation, mini‑projects |
-| [🗄️ SQL‑Journey](https://github.com/Abdulla-B-Official/SQL-Journey) | Complex queries, window functions, CTEs, performance tuning |
-| [📊 Statistics‑Journey](https://github.com/Abdulla-B-Official/Statistics-Journey) | Hypothesis testing, ANOVA, chi‑square, inferential stats |
-| [🍫 Excel‑Journey](https://github.com/Abdulla-B-Official/Awesome-Chocolates-Sales-Analysis-Excel) | Sales dashboards, advanced formulas, pivot tables, data cleaning |
-| [📈 Power‑BI‑Journey](https://github.com/Abdulla-B-Official/Power-BI-Journey) | Capstone dashboards, DAX, data modeling, healthcare analytics |
-| [🤖 Machine‑Learning‑Journey](https://github.com/Abdulla-B-Official/Machine-Learning-Journey) | Preprocessing, feature engineering, regression, boosting, clustering |
-| [🧠 Deep‑Learning‑Journey](https://github.com/Abdulla-B-Official/Deep-Learning-Journey) | ANNs, CNNs, optimisation, backpropagation, model evaluation |
+| [ Python‑Journey](https://github.com/Abdulla-B-Official/Python-Journey) | Fundamentals, OOP, data structures, visualisation, mini‑projects |
+| [ SQL‑Journey](https://github.com/Abdulla-B-Official/SQL-Journey) | Complex queries, window functions, CTEs, performance tuning |
+| [ Statistics‑Journey](https://github.com/Abdulla-B-Official/Statistics-Journey) | Hypothesis testing, ANOVA, chi‑square, inferential stats |
+| [ Excel‑Journey](https://github.com/Abdulla-B-Official/Awesome-Chocolates-Sales-Analysis-Excel) | Sales dashboards, advanced formulas, pivot tables, data cleaning |
+| [ Power‑BI‑Journey](https://github.com/Abdulla-B-Official/Power-BI-Journey) | Capstone dashboards, DAX, data modeling, healthcare analytics |
+| [ Machine‑Learning‑Journey](https://github.com/Abdulla-B-Official/Machine-Learning-Journey) | Preprocessing, feature engineering, regression, boosting, clustering |
+| [ Deep‑Learning‑Journey](https://github.com/Abdulla-B-Official/Deep-Learning-Journey) | ANNs, CNNs, optimisation, backpropagation, model evaluation |
 
 ---
 
@@ -103,21 +103,13 @@ I believe in continuous learning. Here are my structured learning paths – each
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulla-B-Official&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" />
-</div>
-
----
-
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always open to interesting collaborations, research discussions, or just a friendly chat about AI.
 
-- 📧 **Email:** [abdullfhariq.official@gmail.com](mailto:abdullfhariq.official@gmail.com)
-- 🐙 **GitHub:** [@Abdulla-B-Official](https://github.com/Abdulla-B-Official)
-- 🔗 **LinkedIn:** *(coming soon)*
+-  **Email:** [abdullfhariq.official@gmail.com](mailto:abdullfhariq.official@gmail.com)
+-  **GitHub:** [@Abdulla-B-Official](https://github.com/Abdulla-B-Official)
+-  **LinkedIn:** *(coming soon)*
 
 <div align="center">
   <br />
