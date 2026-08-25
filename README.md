@@ -93,32 +93,6 @@ I believe in continuous learning. Here are my structured learning paths – each
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-  <!-- Dynamic GitHub Profile Badges -->
-  <p>
-    <a href="https://github.com/Abdulla-B-Official">
-      <img src="https://img.shields.io/github/followers/Abdulla-B-Official?label=Followers&style=for-the-badge&color=003545&logo=github" />
-    </a>
-    <a href="https://github.com/Abdulla-B-Official">
-      <img src="https://img.shields.io/github/stars/Abdulla-B-Official?label=Stars&style=for-the-badge&color=003545&logo=github" />
-    </a>
-    <a href="https://github.com/Abdulla-B-Official">
-      <img src="https://komarev.com/ghpvc/?username=Abdulla-B-Official&color=003545&style=for-the-badge&label=Profile+Views" />
-    </a>
-  </p>
-
-  <!-- GitHub Stats & Top Languages -->
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulla-B-Official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla-B-Official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </p>
-
-  <!-- GitHub Streak Stats -->
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-B-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-
-</div>
 <!-- Auto‑generated stats cards (kept for extra detail) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulla-B-Official&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla-B-Official&layout=compact&theme=radical&langs_count=8" />
