@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Header Banner (Cream to Deep Dark Blue with Custom Font) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDD0,100:003545&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=003545&fontFamily=Cinzel&animation=fadeIn&fontAlignY=38" width="100%" />
+  <!-- Header Banner (Cream Background with Custom Styled Font) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDD0,100:003545&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=003545&fontFamily=Lobster&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <!-- Dynamic Typing Header -->
+  <!-- Dynamic Typing Header for Data Science & AI/ML -->
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+Full-Stack+Developer;AI+%26+Deep+Learning+Engineer;Web-Based+AI+Systems+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+AI%2FML+Engineer;Computer+Vision+%26+Deep+Learning+Specialist;Full-Stack+AI+Systems+Developer" alt="Typing SVG" />
     </a>
   </h3>
 
@@ -28,17 +28,17 @@
 
 ### 👨‍💻 About Me
 
-Passionate **Computer Vision & Full-Stack Developer** dedicated to building end-to-end intelligent computer vision applications, deep learning web interfaces, and production-ready AI software systems.
+Passionate **Data Scientist & AI/ML Engineer** dedicated to transforming complex data into actionable business intelligence and engineering end-to-end computer vision web applications.
 
 ---
 
 ## 🛠️ Complete Tech Stack
 
-* **Languages:** Python, JavaScript (ES6+), SQL (MySQL, PostgreSQL, SQLite), HTML5/CSS3
-* **Deep Learning & Computer Vision:** TensorFlow, Keras, OpenCV, YOLO (v8 / v9), Convolutional Autoencoders
-* **Web & Full-Stack Development:** Flask REST API, React 18, Tailwind CSS, Vite, Render, Netlify, Git/GitHub
+* **Languages:** Python, SQL (MySQL, PostgreSQL, SQLite), JavaScript (ES6+), HTML5/CSS3
 * **Data Science & Analytics:** Pandas, NumPy, Scikit-Learn, SciPy, Statsmodels, LightGBM
+* **Deep Learning & Computer Vision:** TensorFlow, Keras, OpenCV, YOLO (v8 / v9), Convolutional Autoencoders
 * **Business Intelligence:** Power BI (DAX, Power Query), Advanced Microsoft Excel
+* **Web & Cloud Deployment:** Flask REST API, React 18, Tailwind CSS, Render, Netlify, Git/GitHub
 
 ---
 
