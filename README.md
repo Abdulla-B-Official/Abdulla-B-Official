@@ -1,10 +1,11 @@
 <div align="center">
 
 <!-- Custom Animated Banner with Twinkling Effect & Dark Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Poppins&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<!-- Font changed to Montserrat for a professional, modern look -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Montserrat&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-<!-- Static, clean subtitle (no typing animation) -->
-<h3 style="font-family: 'Poppins', sans-serif; font-weight: 300; color: #38BDF8; letter-spacing: 1px; margin-top: -10px;">
+<!-- Static, clean subtitle (also using Montserrat for consistency) -->
+<h3 style="font-family: 'Montserrat', sans-serif; font-weight: 300; color: #38BDF8; letter-spacing: 1px; margin-top: -10px;">
   Machine Learning • Computer Vision • Full‑Stack AI
 </h3>
 
