@@ -93,46 +93,32 @@ I believe in continuous learning. Here are my structured learning paths – each
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulla-B-Official&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla-B-Official&layout=compact&theme=radical&langs_count=8" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-B-Official&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Abdulla-B-Official&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+  <!-- Dynamic GitHub Profile Badges -->
+  <p>
+    <a href="https://github.com/Abdulla-B-Official">
+      <img src="https://img.shields.io/github/followers/Abdulla-B-Official?label=Followers&style=for-the-badge&color=003545&logo=github" />
+    </a>
+    <a href="https://github.com/Abdulla-B-Official">
+      <img src="https://img.shields.io/github/stars/Abdulla-B-Official?label=Stars&style=for-the-badge&color=003545&logo=github" />
+    </a>
+    <a href="https://github.com/Abdulla-B-Official">
+      <img src="https://komarev.com/ghpvc/?username=Abdulla-B-Official&color=003545&style=for-the-badge&label=Profile+Views" />
+    </a>
+  </p>
+
+  <!-- GitHub Stats & Top Languages -->
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulla-B-Official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla-B-Official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </p>
+
+  <!-- GitHub Streak Stats -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-B-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+
 </div>
-
-
-
-<div align="center">
-
-<!-- Custom Stats from your image -->
-<table style="border-collapse: collapse; width: 100%; max-width: 700px; margin: 0 auto; font-family: 'Montserrat', sans-serif; background: #1a1a2e; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.4);">
-  <tr>
-    <td style="padding: 20px; text-align: center; border-right: 1px solid #2a2a4a;">
-      <div style="font-size: 14px; color: #8892b0; letter-spacing: 1px;">Total Contributions</div>
-      <div style="font-size: 40px; font-weight: 700; color: #38BDF8; margin-top: 4px;">402</div>
-      <div style="font-size: 12px; color: #5a6a8a;">May 20 – Present</div>
-    </td>
-    <td style="padding: 20px; text-align: center; border-right: 1px solid #2a2a4a;">
-      <div style="font-size: 14px; color: #8892b0; letter-spacing: 1px;">Current Streak</div>
-      <div style="font-size: 40px; font-weight: 700; color: #f5a623; margin-top: 4px;">1</div>
-      <div style="font-size: 12px; color: #5a6a8a;">Aug 25</div>
-    </td>
-    <td style="padding: 20px; text-align: center; border-right: 1px solid #2a2a4a;">
-      <div style="font-size: 14px; color: #8892b0; letter-spacing: 1px;">Longest Streak</div>
-      <div style="font-size: 40px; font-weight: 700; color: #f5a623; margin-top: 4px;">75</div>
-      <div style="font-size: 12px; color: #5a6a8a;">Jun 2 – Aug 15</div>
-    </td>
-    <td style="padding: 20px; text-align: center;">
-      <div style="font-size: 14px; color: #8892b0; letter-spacing: 1px;">Profile Views</div>
-      <div style="font-size: 40px; font-weight: 700; color: #38BDF8; margin-top: 4px;">6</div>
-      <div style="font-size: 12px; color: #5a6a8a;">Total</div>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <!-- Auto‑generated stats cards (kept for extra detail) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulla-B-Official&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla-B-Official&layout=compact&theme=radical&langs_count=8" />
