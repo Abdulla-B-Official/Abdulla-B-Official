@@ -1,25 +1,14 @@
 <div align="center">
 
-<!-- Custom Animated Banner with Twinkling Effect & Dark Gradient -->
-<!-- Font changed to Montserrat for a professional, modern look -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Montserrat&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<!-- Animated Banner with Dark Gradient & Twinkling Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Roboto&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-<!-- Static, clean subtitle (also using Montserrat for consistency) -->
-<h3 style="font-family: 'Montserrat', sans-serif; font-weight: 300; color: #38BDF8; letter-spacing: 1px; margin-top: -10px;">
-  Machine Learning • Computer Vision • Full‑Stack AI
+<!-- Clean static subtitle -->
+<h3 style="font-family: 'Roboto', sans-serif; font-weight: 300; color: #38BDF8; letter-spacing: 1px; margin-top: -10px;">
+  Machine Learning • Computer Vision • Deep Learning
 </h3>
 
-<!-- Tech Badges (unchanged) -->
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<!-- (No badges – keeping it minimal) -->
 
 </div>
 
@@ -35,7 +24,7 @@ My work spans the entire AI pipeline — from data wrangling and exploratory ana
 - 🔭 **Currently working on:** Hazardous object detection & weld inspection using YOLOv9.
 - 🌱 **Currently learning:** MLOps, Docker, Kubernetes, and advanced GANs.
 - 👯 **Looking to collaborate on:** Open‑source computer vision and healthcare AI projects.
-- 💬 **Ask me about:** Deep learning, YOLO, Flask, React, and data storytelling.
+- 💬 **Ask me about:** Deep learning, YOLO, Flask, OpenCV, and data storytelling.
 - ⚡ **Fun fact:** I love solving puzzles and playing chess when I'm not coding.
 
 ---
@@ -44,12 +33,13 @@ My work spans the entire AI pipeline — from data wrangling and exploratory ana
 
 | **Category** | **Tools & Technologies** |
 |:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Programming** | Python, SQL (MySQL, PostgreSQL), JavaScript (basic), HTML5, CSS3 |
 | **Data Science** | Pandas, NumPy, Scikit‑Learn, SciPy, Statsmodels, LightGBM |
 | **Deep Learning** | TensorFlow, Keras, OpenCV, YOLO (v8/v9), Convolutional Autoencoders |
 | **BI & Analytics** | Power BI (DAX, Power Query), Advanced Excel |
-| **Web & Cloud** | Flask, React, Tailwind CSS, Render, Netlify, PostgreSQL |
-| **Dev Tools** | VS Code, Git, GitHub, Jupyter, Docker (learning) |
+| **Backend & Deployment** | Flask, Render, Netlify |
+| **Databases** | MySQL, PostgreSQL, SQLite |
+| **Dev Tools** | VS Code, Git, GitHub, Jupyter |
 
 ---
 
@@ -62,12 +52,12 @@ My work spans the entire AI pipeline — from data wrangling and exploratory ana
 
 ### 🔧 WeldVision AI — Intelligent Weld Inspection
 > **AI‑powered weld inspection tool with live detection and confidence scoring.**  
-> **Stack:** YOLO, OpenCV, Flask, React, Tailwind CSS  
+> **Stack:** YOLO, OpenCV, Flask, Python, CSS, HTML  
 > *Highlights:* Real‑time detection, interactive dashboard, API‑first design.
 
 ### 🧠 MNIST AutoEncoder Web App
 > **Deep learning demo for image reconstruction, denoising, and latent space exploration.**  
-> **Stack:** Convolutional Autoencoders, Keras, TensorFlow, Flask, React  
+> **Stack:** Convolutional Autoencoders, Keras, TensorFlow, Flask, HTML, CSS  
 > *Highlights:* Interactive visualisation of encodings, slider‑controlled reconstruction.
 
 ---
