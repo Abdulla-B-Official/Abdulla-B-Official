@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- Custom Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003545,100:38BDF8&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Permanent+Marker&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full‑Stack%20Innovator&descAlignY=58&descSize=20" width="100%" />
+<!-- Custom Animated Banner with Twinkling Effect & Dark Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Poppins&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-<!-- Dynamic Typing Header -->
-<h3>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Machine+Learning+%26+Computer+Vision+Specialist;Deep+Learning+%7C+YOLO+%7C+Autoencoders;Full‑Stack+AI+%26+Data+Science+Developer;Building+Intelligent+Systems+for+the+Future" alt="Typing SVG" />
-  </a>
+<!-- Static, clean subtitle (no typing animation) -->
+<h3 style="font-family: 'Poppins', sans-serif; font-weight: 300; color: #38BDF8; letter-spacing: 1px; margin-top: -10px;">
+  Machine Learning • Computer Vision • Full‑Stack AI
 </h3>
 
-<!-- Tech Stack Badges (High‑Level) -->
+<!-- Tech Badges (unchanged) -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -89,6 +87,27 @@ I believe in continuous learning. Here are my structured learning paths – each
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulla-B-Official&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla-B-Official&layout=compact&theme=radical&langs_count=8" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-B-Official&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Abdulla-B-Official&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulla-B-Official&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" />
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 I'm always open to interesting collaborations, research discussions, or just a friendly chat about AI.
@@ -105,4 +124,3 @@ I'm always open to interesting collaborations, research discussions, or just a f
   <br />
   <sub>🌟 “The best way to predict the future is to build it.” 🌟</sub>
 </div>
-```
