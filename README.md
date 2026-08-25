@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Animated Banner with Dark Gradient & Twinkling Effect (Font: Inter) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Inter&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<!-- Animated Banner with Dark Gradient & Twinkling Effect (Font: Montserrat) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Montserrat&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-<!-- Clean static subtitle -->
-<h3 style="font-family: 'Inter', sans-serif; font-weight: 300; color: #38BDF8; letter-spacing: 1px; margin-top: -10px;">
+<!-- Static subtitle now also using Montserrat for consistency -->
+<h3 style="font-family: 'Montserrat', sans-serif; font-weight: 300; color: #38BDF8; letter-spacing: 1px; margin-top: -10px;">
   Machine Learning • Computer Vision • Deep Learning
 </h3>
 
