@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Header Banner (Cream Background with Custom Styled Font) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDD0,100:003545&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=003545&fontFamily=Lobster&animation=fadeIn&fontAlignY=38" width="100%" />
+  <!-- Header Banner (Exact Off-White/Light Gray Background with Permanent Marker Font) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E0DC,100:003545&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=003545&fontFamily=Permanent+Marker&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <!-- Dynamic Typing Header for Data Science & AI/ML -->
+  <!-- Dynamic Typing Header using Permanent Marker Font -->
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+AI%2FML+Engineer;Computer+Vision+%26+Deep+Learning+Specialist;Full-Stack+AI+Systems+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+AI%2FML+Engineer;Computer+Vision+%26+Deep+Learning+Specialist;Full-Stack+AI+Systems+Developer" alt="Typing SVG" />
     </a>
   </h3>
 
