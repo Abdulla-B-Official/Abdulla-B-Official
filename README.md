@@ -89,27 +89,6 @@ I believe in continuous learning. Here are my structured learning paths – each
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulla-B-Official&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla-B-Official&layout=compact&theme=radical&langs_count=8" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-B-Official&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Abdulla-B-Official&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulla-B-Official&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to interesting collaborations, research discussions, or just a friendly chat about AI.
