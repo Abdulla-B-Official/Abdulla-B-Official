@@ -1,14 +1,26 @@
 <div align="center">
 
-<!-- Animated Banner with Dark Gradient & Twinkling Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Roboto&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<!-- Animated Banner with Dark Gradient & Twinkling Effect (Font: Inter) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Inter&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
 <!-- Clean static subtitle -->
-<h3 style="font-family: 'Roboto', sans-serif; font-weight: 300; color: #38BDF8; letter-spacing: 1px; margin-top: -10px;">
+<h3 style="font-family: 'Inter', sans-serif; font-weight: 300; color: #38BDF8; letter-spacing: 1px; margin-top: -10px;">
   Machine Learning • Computer Vision • Deep Learning
 </h3>
 
-<!-- (No badges – keeping it minimal) -->
+<!-- Focused Tech Badges (No React / No Tailwind) -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
 </div>
 
@@ -33,7 +45,7 @@ My work spans the entire AI pipeline — from data wrangling and exploratory ana
 
 | **Category** | **Tools & Technologies** |
 |:---|:---|
-| **Programming** | Python, SQL (MySQL, PostgreSQL), JavaScript (basic), HTML5, CSS3 |
+| **Programming** | Python, SQL (MySQL, PostgreSQL), HTML5, CSS3 |
 | **Data Science** | Pandas, NumPy, Scikit‑Learn, SciPy, Statsmodels, LightGBM |
 | **Deep Learning** | TensorFlow, Keras, OpenCV, YOLO (v8/v9), Convolutional Autoencoders |
 | **BI & Analytics** | Power BI (DAX, Power Query), Advanced Excel |
@@ -52,12 +64,12 @@ My work spans the entire AI pipeline — from data wrangling and exploratory ana
 
 ### 🔧 WeldVision AI — Intelligent Weld Inspection
 > **AI‑powered weld inspection tool with live detection and confidence scoring.**  
-> **Stack:** YOLO, OpenCV, Flask, Python, CSS, HTML  
+> **Stack:** YOLO, OpenCV, Flask, Python, HTML5, CSS3  
 > *Highlights:* Real‑time detection, interactive dashboard, API‑first design.
 
 ### 🧠 MNIST AutoEncoder Web App
 > **Deep learning demo for image reconstruction, denoising, and latent space exploration.**  
-> **Stack:** Convolutional Autoencoders, Keras, TensorFlow, Flask, HTML, CSS  
+> **Stack:** Convolutional Autoencoders, Keras, TensorFlow, Flask, HTML5, CSS3  
 > *Highlights:* Interactive visualisation of encodings, slider‑controlled reconstruction.
 
 ---
