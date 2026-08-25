@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- Custom Banner (Off-White #E5E0DC with Permanent Marker Font) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E0DC,100:003545&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=003545&fontFamily=Permanent+Marker&animation=fadeIn&fontAlignY=38" width="100%" />
+  <!-- Custom Banner (Gradient Background with Professional Look) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003545,100:38BDF8&height=220&section=header&text=Abdulla%20B&fontSize=70&fontColor=ffffff&fontFamily=Permanent+Marker&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <!-- Dynamic Typing Header using Permanent Marker Font -->
+  <!-- Dynamic Typing Header -->
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+AI%2FML+Engineer;Computer+Vision+%26+Deep+Learning+Specialist;Full-Stack+AI+Systems+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+AI%2FML+Engineer;Computer+Vision+%26+Deep+Learning+Specialist;Full-Stack+AI+Systems+Developer" alt="Typing SVG" />
     </a>
   </h3>
 
-  <!-- Top Technology Badges -->
+  <!-- Tech Badges -->
   <p>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
@@ -27,36 +27,39 @@
 ---
 
 ### 👨‍💻 About Me
+*"Turning data into intelligence, and intelligence into innovation."*  
 
-Passionate **Data Scientist & AI/ML Engineer** dedicated to transforming complex data into actionable business intelligence and building end-to-end AI, Machine Learning, and Computer Vision applications.
+Passionate **Data Scientist & AI/ML Engineer** dedicated to transforming complex data into actionable business intelligence and building end-to-end AI, Machine Learning, and Computer Vision applications.  
 
 I enjoy turning machine learning models into practical applications by combining data science, deep learning, computer vision, backend APIs, frontend development, and cloud deployment.
 
 ---
 
-## 🛠️ Complete Tech Stack
+## 🛠️ Tech Stack
 
-* **Languages:** Python, SQL (MySQL, PostgreSQL, SQLite), JavaScript (ES6+), HTML5, CSS3
-* **Data Science & Analytics:** Pandas, NumPy, Scikit-Learn, SciPy, Statsmodels, LightGBM
-* **Deep Learning & Computer Vision:** TensorFlow, Keras, OpenCV, YOLO (v8 / v9), Convolutional Autoencoders
-* **Business Intelligence:** Power BI (DAX, Power Query), Advanced Microsoft Excel
-* **Web & Cloud Deployment:** Flask REST API, React 18, Tailwind CSS, Render, Netlify
-* **Development & Tools:** VS Code, Git, GitHub
+| **Category** | **Tools** |
+|--------------|-----------|
+| **Languages** | Python, SQL (MySQL, PostgreSQL, SQLite), JavaScript (ES6+), HTML5, CSS3 |
+| **Data Science** | Pandas, NumPy, Scikit-Learn, SciPy, Statsmodels, LightGBM |
+| **Deep Learning** | TensorFlow, Keras, OpenCV, YOLO (v8/v9), Convolutional Autoencoders |
+| **Business Intelligence** | Power BI (DAX, Power Query), Advanced Excel |
+| **Web & Cloud** | Flask REST API, React 18, Tailwind CSS, Render, Netlify |
+| **Development Tools** | VS Code, Git, GitHub |
 
 ---
 
 ## 🚀 Featured AI & Computer Vision Projects
 
 ### ⚠️ Hazardous Object Detection System
-* **Tech:** YOLOv9 • Python • Flask • OpenCV • Render
+* **Tech:** YOLOv9 • Python • Flask • OpenCV • Render  
 * **Description:** Real-time AI computer vision web application designed to detect hazardous objects from uploaded images and live webcam streams using a custom-trained YOLO model.
 
 ### 🔧 WeldVision AI — Intelligent Weld Detection
-* **Tech:** YOLO • OpenCV • Flask • React • Tailwind CSS
+* **Tech:** YOLO • OpenCV • Flask • React • Tailwind CSS  
 * **Description:** AI-powered weld inspection application designed to identify weld conditions and visualize detections using bounding boxes, confidence scores, and live webcam processing.
 
 ### 🧠 MNIST AutoEncoder Web App
-* **Tech:** Convolutional Autoencoders • Keras • TensorFlow • Flask • React
+* **Tech:** Convolutional Autoencoders • Keras • TensorFlow • Flask • React  
 * **Description:** Interactive deep learning application demonstrating image reconstruction, denoising, latent representations, and real-time visualization.
 
 ---
@@ -75,9 +78,17 @@ I enjoy turning machine learning models into practical applications by combining
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulla-B-Official&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla-B-Official&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulla-B-Official&color=blue)
+
+---
+
 ## 📫 Connect With Me
 
-* 📧 **Email:** [abdullfhariq.official@gmail.com](mailto:abdullfhariq.official@gmail.com)
+* 📧 **Email:** [abdullfhariq.official@gmail.com](mailto:abdullfhariq.official@gmail.com)  
 * 🐙 **GitHub:** [@Abdulla-B-Official](https://github.com/Abdulla-B-Official)
 
 <div align="center">
